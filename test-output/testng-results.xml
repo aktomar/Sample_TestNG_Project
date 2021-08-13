@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-13T11:17:48 IST" name="TestNg_SampleProject" finished-at="2021-08-13T11:18:48 IST" duration-ms="59977">
+    <groups>
+    </groups>
+    <test started-at="2021-08-13T11:17:48 IST" name="Test" finished-at="2021-08-13T11:18:48 IST" duration-ms="59977">
+      <class name="com.project.TestCases.TC_PlaceOrder_004">
+        <test-method signature="VerifyAddToCartItems()[pri:0, instance:com.project.TestCases.TC_PlaceOrder_004@693fe6c9]" started-at="2021-08-13T11:17:58 IST" name="VerifyAddToCartItems" finished-at="2021-08-13T11:18:48 IST" duration-ms="49229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAddToCartItems -->
+      </class> <!-- com.project.TestCases.TC_PlaceOrder_004 -->
+      <class name="com.project.TestCases.TC_RegistorUser_001">
+        <test-method signature="VerifyUserRegistorDetails()[pri:0, instance:com.project.TestCases.TC_RegistorUser_001@79da8dc5]" started-at="2021-08-13T11:17:48 IST" name="VerifyUserRegistorDetails" finished-at="2021-08-13T11:17:58 IST" duration-ms="10695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserRegistorDetails -->
+      </class> <!-- com.project.TestCases.TC_RegistorUser_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- TestNg_SampleProject -->
+</testng-results>
